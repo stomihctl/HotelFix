@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57799166798",
+    "project_id": "androidhotelfix",
+    "storage_bucket": "androidhotelfix.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57799166798:android:95c9befc03cb14c2762c1f",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYR-Nq5LSEe8lilqjcJsKo2kqvt6OZB-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
